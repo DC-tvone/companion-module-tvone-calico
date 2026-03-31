@@ -4,7 +4,7 @@
 	"name": "calico",
 	"shortname": "CALICO Control",
 	"description": "Basic control for tvONE CALICO products",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-tvone-calico.git",
 	"bugs": "https://github.com/bitfocus/companion-module-tvone-calico/issues",
